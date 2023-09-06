@@ -1,0 +1,127 @@
+[
+    {
+      "id": 1,
+      "type": "single",
+      "roomName": "Single Room 101",
+      "image": "../src/assets/Standard-Single-room-1.4-book-shelf-cropped-resized-min-scaled.jpg",
+      "roomDescription": "A cozy single room with a comfortable bed.",
+      "rent": "120",
+      "person": "1",
+      "bed":"1"
+    },
+    {
+      "id": 2,
+      "type": "single",
+      "roomName": "Single Room 102",
+      "image": "../src/assets/single room.jpg",
+      "roomDescription": "Another single room with a beautiful view.",
+      "rent": "130",
+      "person": "1",
+      "bed":"1"
+    },
+    {
+      "id": 3,
+      "type": "single",
+      "roomName": "Single Room 103",
+      "image": "../src/assets/single room (1).jpg",
+      "roomDescription": "A spacious single room with modern amenities.",
+      "rent": "140",
+      "person": "1",
+      "bed":"1"
+
+    },
+    {
+      "id": 4,
+      "type": "couple",
+      "roomName": "Couple Room 201",
+      "image": "../src/assets/couples.jpg",
+      "roomDescription": "A romantic couple's room with a king-sized bed.",
+      "rent": "190",
+      "person": "2",
+      "bed":"1"
+    },
+    {
+      "id": 5,
+      "type": "couple",
+      "roomName": "Couple Room 202",
+      "image": "../src/assets/couple(2).jpg",
+      "roomDescription": "A cozy couple's room with a view of the garden.",
+      "rent": "160",
+      "person": "2",
+      "bed":"1"
+    },
+    {
+      "id": 6,
+      "type": "couple",
+      "roomName": "Couple Room 203",
+      "image": "../src/assets/couples(2).jpg",
+      "roomDescription": "A luxurious couple's room with a private balcony.",
+      "rent": "170",
+      "person": "2",
+      "bed":"1"
+
+    },
+    {
+      "id": 7,
+      "type": "family",
+      "roomName": "Family Suite 301",
+      "image": "../src/assets/family room (2).jpg",
+      "roomDescription": "A spacious family suite with a separate living area.",
+      "rent": "180",
+      "person": "4",
+      "bed":"2"
+    },
+    {
+      "id": 8,
+      "type": "family",
+      "roomName": "Family Suite 302",
+      "image": "../src/assets/family landscape-1459882552-unknown-1.jpeg",
+      "roomDescription": "A family suite with a kitchenette for your convenience.",
+      "rent": "200",
+      "person": "4",
+      "bed":"2"
+
+    },
+    {
+      "id": 9,
+      "type": "family",
+      "roomName": "Family Suite 303",
+      "image": "../src/assets/family (2).jpg",
+      "roomDescription": "A comfortable family suite with a view of the lake.",
+      "rent": "190",
+      "person": "4",
+      "bed":"2"
+    },
+    {
+      "id": 10,
+      "type": "single",
+      "roomName": "Single Room 104",
+      "image": "../src/assets/single (2).jpg",
+      "roomDescription": "A budget-friendly single room with all essentials.",
+      "rent": "100",
+      "person": "1",
+      "bed":"1"
+    },
+    {
+      "id": 11,
+      "type": "single",
+      "roomName": "Single Room 105",
+      "image": "../src/assets/single (1).jpg",
+      "roomDescription": "A single room perfect for business travelers.",
+      "rent": "120",
+      "person": "1",
+      "bed":"1"
+      
+    },
+    {
+      "id": 12,
+      "type": "couple",
+      "roomName": "Couple Room 204",
+      "image": "../src/assets/Couple Bedroom.jpg",
+      "roomDescription": "A couple's room with a Jacuzzi for a romantic getaway.",
+      "rent": "150",
+      "person": "2",
+      "bed":"1"
+    }
+  ]
+  
